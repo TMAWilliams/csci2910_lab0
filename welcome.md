@@ -43,8 +43,8 @@ Markdown can do so much more than I previously thought[^1].
 ---
 ### Images
 I learned how to add images too.<br>
-*This is me!*
-
+*This is me!*<br>
+![alt text](https://github.com/TMAWilliams/csci2910_lab0/blob/main/Tessa_headshot_bw-2.jpg "Tessa Williams")
 
 ## Things I'm Unsure About
 ### *Strikethroughs*
